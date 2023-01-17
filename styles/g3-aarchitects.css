@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+
+}
+/* header and navigation */
+.mul{
+    background-color: rgba(255, 144, 14, 0.1);
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 100px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+   
+}
+nav li{
+    list-style: none;
+    margin: 30px;
+}
+.nav-title{
+   font-weight: 302px;
+   font-size: 53px;
+}
+  /* banner styles */
+  
+
+  .banner-title{
+    font-weight: 250px;
+    font-size: 30px;
+    margin-left: 400px;
+    }
+
+.baneer-description{
+  font-size: 18px;
+   color: #727272;
+   margin-bottom: 20px;
+   margin-left: 250px;
+   
+}
+.btn-primary{
+        width: 180px;
+        height: 64px;
+    color: #FFFFFF;
+    border: 0;
+    background-color: #FF900E;
+    border-radius: 8px;
+    margin-left: 550px;
+    
+    
+
+}
+.a img{
+    width: 950px;
+    height: 456px;
+    margin-left: 230px;
+    
+    
+    
+    
+}
+ .thumnail{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    border-radius: 8px;
+    
+ }
+ .container{
+    display: flex;
+    align-items:center;
+    margin-left: 200px;
+ }
+ .thumnail img{
+    width: 342px;
+    height: 342px;
+    margin: 24px;
+ }
+ .z{
+width: 537px;
+height:304px;
+margin-left: 50px;
+
+ }
+ .bu{
+  width: 180px ; 
+  height: 64px; 
+  color: #FFFFFF;
+  border: 0;
+  background-color: #FF900E;
+  border-radius: 5px;
+ }
+ .second-banner{
+    display: flex;
+    margin-left: 100px;
+    
+
+ }
+.pic{
+    width: 250px;
+    height: 600px;
+    margin: 27px;
+    align-items: center;
+}
+ .b{
+    width: 350px;
+    height: 150px;
+    gap: 20px;
+ }
+ .c{
+    width: 514px;
+    height: 78px;
+    gap: 20px;
+ }
+ .d{
+    height: 24px;
+    gap: 10px;
+ }
+ .sho{
+   margin-top: 75px;
+ }
+ .resum-title{
+   width: 258px;
+   height: 53px;
+   margin-left: 100px;
+   color: #131313;
+ }
+ .resum-pe{
+   width: 542px;
+   height: 52px;
+   margin-left: 100px;
+   color: #727272;
+ }
+
+ .resum-i{
+    display: flex;
+    gap: 140px;
+    margin-left: 200px;
+    margin-top: 75px;
+ }
+ .bo{
+   width: 141px;
+   height: 141px;
+   align-items: center;
+   border: 5px;
+ }
+ .bor{
+   width: 542px;
+   height: 140px;
+   margin-left: 400px;
+   margin-top: 50px;
+ }
+ .sp-hero{
+   width: 165px;
+   height: 50px;
+   display: flex;
+   margin-top: 25px;
+   margin-left: 70px;
+   gap: 70px;
+   align-items: center;
+   border: 0;
+ }
+ .say{
+   width: 1160px;
+   height: 100px;
+   background-color: #FFF4E7;
+   border-radius: 8px;
+   margin-top: 70px;
+   margin-left: 70px;
+ }
+ 
+ 
